@@ -1,5 +1,9 @@
+body {
+  margin-bottom: 0px;
+}
+
 .tudo {
-  margin: 4% 20% 20%;
+  margin: 4% 20% 0%;
 }
 .enzo {
   font-size: 30px;
@@ -223,4 +227,13 @@ button {
   display: inline;
   padding: 3%;
   height: 100%;
+  font-weight: 600;
+}
+
+.link-pag-pessoal {
+  color: #00a78e;
+}
+
+.espaco-padding {
+  padding: 2%;
 }
